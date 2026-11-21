@@ -1,0 +1,14 @@
+{
+  "name": "poem-about-permission-01",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Knocking for Two — a poem about permission.",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "license": "MIT"
+}
